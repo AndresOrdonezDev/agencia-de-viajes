@@ -4,8 +4,8 @@
   "description": "proyecto con node.js",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start" : "node index.js"
+    "dev": "nodemon app.mjs",
+    "start" : "node app.mjs"
   },
   "type": "module",
   "author": "Andres Ordonez",
